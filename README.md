@@ -2,7 +2,7 @@
 
 # RIFA.DEV
 
-### Software OSS Development · Scalable Systems · Game Server Engineering
+### OSS Development · Scalable Systems · Game Server Engineering
 
 <p>
   <a href="https://rifanesia.com">
